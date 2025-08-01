@@ -80,11 +80,15 @@
 
 <h2 align="left">Badges :</h2>
 
-<div align="left">
+<!--  <div align="left">
+ <img src="https://github-readme-stats.vercel.app/api?username=waleeddeveloper222&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1"  alt="stats graph"  /> -->
+<!--   <img src="https://streak-stats.demolab.com?user=waleeddeveloper222&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" alt="streak graph"  />
+</div> -->
+
+ <a align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=waleeddeveloper222&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1"  alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=waleeddeveloper222&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" alt="streak graph"  />
-</div>
-  <a href="https://github.com/waleeddeveloper222" align="left">
+   </a>
+  <a align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waleeddeveloper222&langs_count=10&theme=dracula&hide_border=false&border_radius=5&locale=en&custom_title=Top%20%Languages" alt="languages graph" /></a>
 
 <h2 align="left">Reach out :</h2>
