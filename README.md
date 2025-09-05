@@ -3,7 +3,7 @@
 
 ### A highly skilled mobile application developer with 3+ years of experience building scalable Android and Flutter apps using Java, Kotlin, and Dart. Skilled in OOP, SOLID principles, Clean Architecture, Design Patterns, and responsive UI design. Adept at collaborating within Agile teams and delivering production-ready apps on time that balance design and functionality. Passionate about writing clean, maintainable code and learning new technologies to improve code quality and app usability continuously.
 
-  <img src="https://github.com/waleeddeveloper222/waleeddeveloper222/blob/main/profile_mg.gif" align="center" width="100%" height=""/>
+  <img src="https://github.com/waleedadel22/waleedadel22/blob/main/profile_mg.gif" align="center" width="100%" height=""/>
 
 
 
@@ -81,24 +81,24 @@
 <h2 align="left">Badges :</h2>
 
 <!--  <div align="left">
- <img src="https://github-readme-stats.vercel.app/api?username=waleeddeveloper222&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1"  alt="stats graph"  /> -->
-<!--   <img src="https://streak-stats.demolab.com?user=waleeddeveloper222&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" alt="streak graph"  />
+ <img src="https://github-readme-stats.vercel.app/api?username=waleedadel22&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1"  alt="stats graph"  /> -->
+<!--   <img src="https://streak-stats.demolab.com?user=waleedadel22&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" alt="streak graph"  />
 </div> -->
 
  <a align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=waleeddeveloper222&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1"  alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=waleedadel22&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1"  alt="stats graph"  />
    </a>
   <a align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waleeddeveloper222&langs_count=10&theme=dracula&hide_border=false&border_radius=5&locale=en&custom_title=Top%20%Languages" alt="languages graph" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waleedadel22&langs_count=10&theme=dracula&hide_border=false&border_radius=5&locale=en&custom_title=Top%20%Languages" alt="languages graph" /></a>
 
 <h2 align="left">Reach out :</h2>
 
 <p align="left">
   
-   <a href="https://www.github.com/waleeddeveloper222" target="_blank">
+   <a href="https://www.github.com/waleedadel22" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"  width="57" height="45" alt="Github" title="Github" />
   </a> 
-    <a href="https://www.linkedin.com/in/waleeddeveloper222/" target="_blank">
+    <a href="https://www.linkedin.com/in/waleedadel22/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="57" height="45" alt="linkedin logo"  />
   </a>
     <a href="mailto:waleed.developer222@gmail.com" target="_blank">
